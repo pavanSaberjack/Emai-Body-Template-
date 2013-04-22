@@ -1,0 +1,320 @@
+TEmailBodyTemplateNew
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist
+cProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew normal i386
+cGenerateDSYMFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew
+cCpResource EmailBodyTemplateNew/Default.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png
+cCopyStringsFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/InfoPlist.strings EmailBodyTemplateNew/en.lproj/InfoPlist.strings
+cCpResource EmailBodyTemplateNew/Default@2x.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png
+cCpResource EmailBodyTemplateNew/Default-568h@2x.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png
+cCompileXIB /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib
+cTouch /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m
+c00000000516B981A000000000000097C
+t1366005786
+s2428
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch
+c00000000516B981A0000000000000157
+t1366005786
+s343
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m
+c00000000516B981A00000000000001EE
+t1366005786
+s494
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/InfoPlist.strings
+c00000000516B981A000000000000002D
+t1366005786
+s45
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib
+c00000000516B981A0000000000001782
+t1366005786
+s6018
+
+N/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m
+c00000000516B981A0000000000000151
+t1366005786
+s337
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/PkgInfo
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/EmailBodyTemplateNew.LinkFileList
+c00000000516B985A00000000000001BB
+t1366005850
+s443
+
+N/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000505A928E0000000000000110
+t1348113038
+s272
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505AE8100000000000228FD0
+t1348134928
+s2265040
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000505AE81000000000000F62E0
+t1348134928
+s1008352
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505AE81100000000003DCEF0
+t1348134929
+s4050672
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505AE81100000000000015F7
+t1348134929
+s5623
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505AE8150000000000000E8D
+t1348134933
+s3725
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505AE8170000000000AB3D60
+t1348134935
+s11222368
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505AE8230000000000001B54
+t1348134947
+s6996
+
+N/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth
+t2
+s0
+
+NEmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist
+c00000000516B981A000000000000048A
+t1366005786
+s1162
+
+CBuild AST from /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m
+r0
+
+CBuild AST from /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m
+r0
+
+CBuild AST from /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf8ff31dacf1bb741^6c5d4adacf1bb741^---0#1#0#--18"Check dependencies36"247E3060-0125-4552-871A-CB076E0258E4-
+
+CCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387698651.492644
+e387698651.734258
+r1
+xCompileC
+xbuild/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o
+x/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.mbe4a7edbcf1bb741^66f8bbdbcf1bb741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m0000000000000000^3768"CompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o EmailBodyTemplateNew/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/EmailBodyTemplateNew    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-generated-files.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-own-target-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-all-target-headers.hmap -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-project-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources/i386 -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources -F/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.dia -c /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/AppDelegate.m -o /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/AppDelegate.o36"AE5100BC-FAE8-4FEC-8781-0AEBBD4DE8CF-
+
+CCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387698651.492632
+e387698651.733565
+r1
+xCompileC
+xbuild/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o
+x/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m85447edbcf1bb741^b4cbbbdbcf1bb741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m0000000000000000^3786"CompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o EmailBodyTemplateNew/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/EmailBodyTemplateNew    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-generated-files.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-own-target-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-all-target-headers.hmap -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-project-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources/i386 -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources -F/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.dia -c /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/ViewController.m -o /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/ViewController.o36"8F8C37A0-E7E3-4B27-AABD-38C0D396F69E-
+
+CCompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387698651.492639
+e387698651.728603
+r1
+xCompileC
+xbuild/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o
+x/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m5e497edbcf1bb741^2f86badbcf1bb741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m0000000000000000^3726"CompileC build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o EmailBodyTemplateNew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/EmailBodyTemplateNew    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-generated-files.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-own-target-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-all-target-headers.hmap -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-project-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources/i386 -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources -F/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.d --serialize-diagnostics /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.dia -c /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/main.m -o /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/main.o36"E0B6A96E-2DE6-42EA-8AF0-D0C522A62528-
+
+CCompileXIB /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib
+s387698652.720586
+e387698653.567756
+r1
+xCompileXIB
+x/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xibd68cb8dccf1bb741^975891ddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib0000000000000000^915"CompileXIB EmailBodyTemplateNew/en.lproj/ViewController.xib    cd /iPhoneApps/EmailBodyTemplateNew    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /software/Xcode.app/Contents/Developer/usr/bin/..    /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/ViewController.nib /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/ViewController.xib --sdk /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"4B2A2A9F-ED3E-4E55-9115-FA5B072F8492-
+
+CCopyStringsFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/InfoPlist.strings EmailBodyTemplateNew/en.lproj/InfoPlist.strings
+s387698652.682441
+e387698653.177017
+r1
+xCopyStringsFile
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/InfoPlist.strings
+xEmailBodyTemplateNew/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy EmailBodyTemplateNew/en.lproj/InfoPlist.strings38f8aedccf1bb741^6e882dddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/en.lproj/InfoPlist.strings0000000000000000^607"CopyStringsFile build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj/InfoPlist.strings EmailBodyTemplateNew/en.lproj/InfoPlist.strings    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/en.lproj -- EmailBodyTemplateNew/en.lproj/InfoPlist.strings36"34D88B84-D9F7-4771-AEB0-FFC1542D41F2-
+
+CCpResource EmailBodyTemplateNew/Default-568h@2x.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png
+s387698652.683350
+e387698652.718838
+r1
+xCpResource
+xEmailBodyTemplateNew/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png7006afdccf1bb741^60042dddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png000000000080d041^630"CpResource "EmailBodyTemplateNew/Default-568h@2x.png" "build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default-568h@2x.png"    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default-568h@2x.png" /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app36"247FEE9C-A46A-46C4-9EEF-2AFE73DEE78C-
+
+CCpResource EmailBodyTemplateNew/Default.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png
+s387698652.682438
+e387698652.718896
+r1
+xCpResource
+xEmailBodyTemplateNew/Default.png
+xbuild/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png19ffaedccf1bb741^fb072dddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png000000000080d041^600"CpResource EmailBodyTemplateNew/Default.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default.png    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default.png /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app36"C86D598E-ADC8-4353-B076-B478C3FAD27E-
+
+CCpResource EmailBodyTemplateNew/Default@2x.png build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png
+s387698652.682482
+e387698652.719399
+r1
+xCpResource
+xEmailBodyTemplateNew/Default@2x.png
+xbuild/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.pnga9f9aedccf1bb741^310b2dddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png000000000080d041^615"CpResource "EmailBodyTemplateNew/Default@2x.png" "build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Default@2x.png"    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/Default@2x.png" /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app36"DE8E078E-2131-4BAC-B90B-9424588EF2F0-
+
+CGenerateDSYMFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew
+s387698652.523359
+e387698652.665225
+r1
+xGenerateDSYMFile
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generating /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYMc72d86dccf1bb741^1ff42cddcf1bb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM000000000080d041^673"GenerateDSYMFile build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew -o /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app.dSYM36"E3B97258-0CC2-4242-B9AC-237206171F5B-
+
+CLd /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew normal i386
+s387698651.740509
+e387698652.515036
+r1
+xLd
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew61aabddbcf1bb741^ee2486dccf1bb741^---0#0#0#--1201"Ld build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew normal i386    cd /iPhoneApps/EmailBodyTemplateNew    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator -F/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator -filelist /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/Objects-normal/i386/EmailBodyTemplateNew.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework CoreText -framework UIKit -framework Foundation -framework CoreGraphics -o /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/EmailBodyTemplateNew36"72CD7DFD-255C-48A2-91AA-83AD64C8F058-
+
+CProcessInfoPlistFile /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist
+s387698650.295103
+e387698650.331945
+r1
+xProcessInfoPlistFile
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist
+xEmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plistbea24bdacf1bb741^213d55dacf1bb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist0000000000000000^715"ProcessInfoPlistFile build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist -genpkginfo /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app/Info.plist36"D7B8A1D7-9390-4D45-A4F5-BA876B66663E-
+
+CProcessPCH /Users/pavan/Library/Developer/Xcode/DerivedData/EmailBodyTemplateNew-cdjgefbjhgmmgjfbbnarqenooofr/Index/PrecompiledHeaders/EmailBodyTemplateNew-Prefix-bekuphgugirllkcexblhjqsdaokh_ast/EmailBodyTemplateNew-Prefix.pch.pth EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387698650.341131
+e387698651.485479
+r1
+xProcessPCH
+x/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth
+xEmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pche27757dacf1bb741^7c487cdbcf1bb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch0000000000000000^3802"ProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/EmailBodyTemplateNew    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-generated-files.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-own-target-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-all-target-headers.hmap -iquote /iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/EmailBodyTemplateNew-project-headers.hmap -I/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources/i386 -I/iPhoneApps/EmailBodyTemplateNew/build/EmailBodyTemplateNew.build/Debug-iphonesimulator/EmailBodyTemplateNew.build/DerivedSources -F/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.dia -c /iPhoneApps/EmailBodyTemplateNew/EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch -o /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmailBodyTemplateNew-Prefix-ajhchpwikejohohgnjivxhekbbex/EmailBodyTemplateNew-Prefix.pch.d36"813277B3-88B2-4C8B-B7B1-E317E693B99C-
+
+CTouch /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app
+s387698653.575412
+e387698653.630873
+r1
+xTouch
+x/iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.appad6893ddcf1bb741^e081a1ddcf1bb741^---0#0#0#--394"Touch build/Debug-iphonesimulator/EmailBodyTemplateNew.app    cd /iPhoneApps/EmailBodyTemplateNew    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPhoneApps/EmailBodyTemplateNew/build/Debug-iphonesimulator/EmailBodyTemplateNew.app36"73FB94A0-10EA-466E-8F15-05BCD0DC021D-
+

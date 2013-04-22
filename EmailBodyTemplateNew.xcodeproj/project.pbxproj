@@ -1,0 +1,313 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8B7E7F90171BCF9A00308839 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B7E7F8F171BCF9A00308839 /* UIKit.framework */; };
+		8B7E7F92171BCF9A00308839 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B7E7F91171BCF9A00308839 /* Foundation.framework */; };
+		8B7E7F94171BCF9A00308839 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B7E7F93171BCF9A00308839 /* CoreGraphics.framework */; };
+		8B7E7F9A171BCF9A00308839 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B7E7F98171BCF9A00308839 /* InfoPlist.strings */; };
+		8B7E7F9C171BCF9A00308839 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B7E7F9B171BCF9A00308839 /* main.m */; };
+		8B7E7FA0171BCF9A00308839 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B7E7F9F171BCF9A00308839 /* AppDelegate.m */; };
+		8B7E7FA2171BCF9A00308839 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B7E7FA1171BCF9A00308839 /* Default.png */; };
+		8B7E7FA4171BCF9A00308839 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B7E7FA3171BCF9A00308839 /* Default@2x.png */; };
+		8B7E7FA6171BCF9A00308839 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B7E7FA5171BCF9A00308839 /* Default-568h@2x.png */; };
+		8B7E7FA9171BCF9A00308839 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B7E7FA8171BCF9A00308839 /* ViewController.m */; };
+		8B7E7FAC171BCF9A00308839 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B7E7FAA171BCF9A00308839 /* ViewController.xib */; };
+		8B7E7FB3171BCFD000308839 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B7E7FB2171BCFD000308839 /* CoreText.framework */; };
+		8BF8FC58171D3EBC0006C2AE /* CustomTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BF8FC57171D3EBC0006C2AE /* CustomTextView.m */; };
+		8BF8FC5A171D3F6C0006C2AE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BF8FC59171D3F6C0006C2AE /* QuartzCore.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8B7E7F8B171BCF9A00308839 /* EmailBodyTemplateNew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmailBodyTemplateNew.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B7E7F8F171BCF9A00308839 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8B7E7F91171BCF9A00308839 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8B7E7F93171BCF9A00308839 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8B7E7F97171BCF9A00308839 /* EmailBodyTemplateNew-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EmailBodyTemplateNew-Info.plist"; sourceTree = "<group>"; };
+		8B7E7F99171BCF9A00308839 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8B7E7F9B171BCF9A00308839 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B7E7F9D171BCF9A00308839 /* EmailBodyTemplateNew-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EmailBodyTemplateNew-Prefix.pch"; sourceTree = "<group>"; };
+		8B7E7F9E171BCF9A00308839 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8B7E7F9F171BCF9A00308839 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8B7E7FA1171BCF9A00308839 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		8B7E7FA3171BCF9A00308839 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8B7E7FA5171BCF9A00308839 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8B7E7FA7171BCF9A00308839 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8B7E7FA8171BCF9A00308839 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8B7E7FAB171BCF9A00308839 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		8B7E7FB2171BCFD000308839 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		8BF8FC56171D3EBC0006C2AE /* CustomTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTextView.h; sourceTree = "<group>"; };
+		8BF8FC57171D3EBC0006C2AE /* CustomTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTextView.m; sourceTree = "<group>"; };
+		8BF8FC59171D3F6C0006C2AE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8B7E7F88171BCF9A00308839 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BF8FC5A171D3F6C0006C2AE /* QuartzCore.framework in Frameworks */,
+				8B7E7FB3171BCFD000308839 /* CoreText.framework in Frameworks */,
+				8B7E7F90171BCF9A00308839 /* UIKit.framework in Frameworks */,
+				8B7E7F92171BCF9A00308839 /* Foundation.framework in Frameworks */,
+				8B7E7F94171BCF9A00308839 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8B7E7F80171BCF9A00308839 = {
+			isa = PBXGroup;
+			children = (
+				8B7E7F95171BCF9A00308839 /* EmailBodyTemplateNew */,
+				8B7E7F8E171BCF9A00308839 /* Frameworks */,
+				8B7E7F8C171BCF9A00308839 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8B7E7F8C171BCF9A00308839 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8B7E7F8B171BCF9A00308839 /* EmailBodyTemplateNew.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8B7E7F8E171BCF9A00308839 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8BF8FC59171D3F6C0006C2AE /* QuartzCore.framework */,
+				8B7E7FB2171BCFD000308839 /* CoreText.framework */,
+				8B7E7F8F171BCF9A00308839 /* UIKit.framework */,
+				8B7E7F91171BCF9A00308839 /* Foundation.framework */,
+				8B7E7F93171BCF9A00308839 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8B7E7F95171BCF9A00308839 /* EmailBodyTemplateNew */ = {
+			isa = PBXGroup;
+			children = (
+				8B7E7F9E171BCF9A00308839 /* AppDelegate.h */,
+				8B7E7F9F171BCF9A00308839 /* AppDelegate.m */,
+				8B7E7FA7171BCF9A00308839 /* ViewController.h */,
+				8B7E7FA8171BCF9A00308839 /* ViewController.m */,
+				8B7E7FAA171BCF9A00308839 /* ViewController.xib */,
+				8B7E7F96171BCF9A00308839 /* Supporting Files */,
+				8BF8FC56171D3EBC0006C2AE /* CustomTextView.h */,
+				8BF8FC57171D3EBC0006C2AE /* CustomTextView.m */,
+			);
+			path = EmailBodyTemplateNew;
+			sourceTree = "<group>";
+		};
+		8B7E7F96171BCF9A00308839 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B7E7F97171BCF9A00308839 /* EmailBodyTemplateNew-Info.plist */,
+				8B7E7F98171BCF9A00308839 /* InfoPlist.strings */,
+				8B7E7F9B171BCF9A00308839 /* main.m */,
+				8B7E7F9D171BCF9A00308839 /* EmailBodyTemplateNew-Prefix.pch */,
+				8B7E7FA1171BCF9A00308839 /* Default.png */,
+				8B7E7FA3171BCF9A00308839 /* Default@2x.png */,
+				8B7E7FA5171BCF9A00308839 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8B7E7F8A171BCF9A00308839 /* EmailBodyTemplateNew */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B7E7FAF171BCF9A00308839 /* Build configuration list for PBXNativeTarget "EmailBodyTemplateNew" */;
+			buildPhases = (
+				8B7E7F87171BCF9A00308839 /* Sources */,
+				8B7E7F88171BCF9A00308839 /* Frameworks */,
+				8B7E7F89171BCF9A00308839 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmailBodyTemplateNew;
+			productName = EmailBodyTemplateNew;
+			productReference = 8B7E7F8B171BCF9A00308839 /* EmailBodyTemplateNew.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8B7E7F82171BCF9A00308839 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = pavan;
+			};
+			buildConfigurationList = 8B7E7F85171BCF9A00308839 /* Build configuration list for PBXProject "EmailBodyTemplateNew" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8B7E7F80171BCF9A00308839;
+			productRefGroup = 8B7E7F8C171BCF9A00308839 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8B7E7F8A171BCF9A00308839 /* EmailBodyTemplateNew */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8B7E7F89171BCF9A00308839 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B7E7F9A171BCF9A00308839 /* InfoPlist.strings in Resources */,
+				8B7E7FA2171BCF9A00308839 /* Default.png in Resources */,
+				8B7E7FA4171BCF9A00308839 /* Default@2x.png in Resources */,
+				8B7E7FA6171BCF9A00308839 /* Default-568h@2x.png in Resources */,
+				8B7E7FAC171BCF9A00308839 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8B7E7F87171BCF9A00308839 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B7E7F9C171BCF9A00308839 /* main.m in Sources */,
+				8B7E7FA0171BCF9A00308839 /* AppDelegate.m in Sources */,
+				8B7E7FA9171BCF9A00308839 /* ViewController.m in Sources */,
+				8BF8FC58171D3EBC0006C2AE /* CustomTextView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8B7E7F98171BCF9A00308839 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B7E7F99171BCF9A00308839 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8B7E7FAA171BCF9A00308839 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B7E7FAB171BCF9A00308839 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8B7E7FAD171BCF9A00308839 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8B7E7FAE171BCF9A00308839 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8B7E7FB0171BCF9A00308839 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch";
+				INFOPLIST_FILE = "EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8B7E7FB1171BCF9A00308839 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EmailBodyTemplateNew/EmailBodyTemplateNew-Prefix.pch";
+				INFOPLIST_FILE = "EmailBodyTemplateNew/EmailBodyTemplateNew-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8B7E7F85171BCF9A00308839 /* Build configuration list for PBXProject "EmailBodyTemplateNew" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B7E7FAD171BCF9A00308839 /* Debug */,
+				8B7E7FAE171BCF9A00308839 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B7E7FAF171BCF9A00308839 /* Build configuration list for PBXNativeTarget "EmailBodyTemplateNew" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B7E7FB0171BCF9A00308839 /* Debug */,
+				8B7E7FB1171BCF9A00308839 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8B7E7F82171BCF9A00308839 /* Project object */;
+}
